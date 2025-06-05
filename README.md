@@ -1,8 +1,3 @@
-Great! You've uploaded a full-stack **Expense Tracker** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. Below is a **professional-quality `README.md`** you can showcase in your portfolio. This version improves clarity, highlights features and USPs, and adds structured usage instructions.
-
----
-
-```markdown
 # 💸 Expense Tracker - MERN Stack
 
 A **full-stack expense management application** built using the **MERN** stack (MongoDB, Express, React, Node.js). This project empowers users to manage personal or business expenses in real-time with a modern and responsive UI.
@@ -44,8 +39,6 @@ A **full-stack expense management application** built using the **MERN** stack (
 
 ## 📁 Folder Structure
 
-```
-
 expense-tracker-mern/
 ├── client/         # React frontend
 ├── config/         # Environment config
@@ -54,8 +47,6 @@ expense-tracker-mern/
 ├── routes/         # Express routes
 ├── server.js       # Entry point (Node.js backend)
 ├── package.json
-
-````
 
 ---
 
